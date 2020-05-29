@@ -53,3 +53,10 @@ func main() {
 	http.ListenAndServe(":8080", r)
 	// log.Fatal(http.ListenAndServe(":8080", nil))
 }
+
+
+
+/// url shortner 
+
+shorturl = map[string]string
+
